@@ -1,15 +1,4 @@
-//www.elegoo.com
-//2016.12.9
-
-/* @file CustomKeypad.pde
-|| @version 1.0
-|| @author Alexander Brevig
-|| @contact alexanderbrevig@gmail.com
-||
-|| @description
-|| | Demonstrates changing the keypad size and key values.
-|| #
-*/
+// made by joe
 #include <LiquidCrystal.h>
 #include <Keypad.h>
 
